@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringDataRedisApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Spring data redis example ------------------------------");
+		System.out.println("Spring data redis example --------------------------");
 		SpringApplication.run(SpringDataRedisApplication.class, args);
 	}
 
